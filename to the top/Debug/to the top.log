@@ -1,0 +1,20 @@
+﻿Build started 2/13/2016 9:44:01 PM.
+     1>Project "C:\Users\u\Desktop\to the top\to the top\to the top.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>c:\users\u\desktop\to the top\to the top\igraphics.h(103): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\u\desktop\to the top\to the top\imain.cpp(969): warning C4101: 'meteory2' : unreferenced local variable
+     1>c:\users\u\desktop\to the top\to the top\imain.cpp(969): warning C4101: 'meteorx2' : unreferenced local variable
+     1>c:\users\u\desktop\to the top\to the top\imain.cpp(969): warning C4101: 'meteorx3' : unreferenced local variable
+     1>c:\users\u\desktop\to the top\to the top\imain.cpp(969): warning C4101: 'meteory3' : unreferenced local variable
+     1>c:\users\u\desktop\to the top\to the top\imain.cpp(1187): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strrev. See online help for details.
+                 d:\visual studio\vc\include\string.h(257) : see declaration of 'strrev'
+       Link:
+         D:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\u\Desktop\to the top\Debug\to the top.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\u\Desktop\to the top\Debug\to the top.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\u\Desktop\to the top\Debug\to the top.lib" /MACHINE:X86 Debug\iMain.obj
+         to the top.vcxproj -> C:\Users\u\Desktop\to the top\Debug\to the top.exe
+     1>Done Building Project "C:\Users\u\Desktop\to the top\to the top\to the top.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.70
